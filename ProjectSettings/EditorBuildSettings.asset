@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 85a310726b349e24796ca21db25adc52
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: b6de45b214066f048bd4fafab14d37d4
+  - enabled: 1
+    path: Assets/Scenes/GirlMap.unity
+    guid: dbc7b7e8bd870f046964693f6444d04f
+  - enabled: 1
+    path: Assets/Scenes/GirlL1.unity
+    guid: 7d3c0dd68fa7bed4db672c6159300995
+  - enabled: 1
+    path: Assets/Scenes/Shopping1.unity
+    guid: 31f91e4247a579a43b91726bae8cbbae
+  - enabled: 1
+    path: Assets/Scenes/WinLevel1.unity
+    guid: 3093a3cf384794647b3ed1d28bd4ccd8
+  - enabled: 1
+    path: Assets/Scenes/GirlLWin1.unity
+    guid: b870e18c4efd18244b4ca7f14c05711e
+  - enabled: 1
+    path: Assets/Scenes/GirlLVidio.unity
+    guid: b40e44f32130655479196ed1773b6456
+  - enabled: 1
+    path: Assets/Scenes/GirlLVidioDialog2.unity
+    guid: 2fe55aa8cc850034e973a3584df91d0e
+  - enabled: 1
+    path: Assets/Scenes/GirlLVidioDialog3.unity
+    guid: ed4f6d3ac24de284a8729d372936c0a8
+  - enabled: 1
+    path: Assets/Scenes/BoyVidio.unity
+    guid: ca3c1dceec30af148b51bf3469c1e5c9
+  - enabled: 1
+    path: Assets/Scenes/BoyVidioDialog2.unity
+    guid: 337eefe4db428914d952db925b2d49cf
+  m_configObjects: {}
