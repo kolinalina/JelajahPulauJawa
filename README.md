@@ -22,3 +22,6 @@ PC version, and open .exe to play the game
 Done, and you can play the game
 
 ![alt text](https://github.com/kolinalina/JelajahPulauJawa/blob/master/imgs/github5.png?raw=true)
+
+
+developed by: hasna, ucup, kolina, destira
